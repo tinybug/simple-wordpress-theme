@@ -1,0 +1,1 @@
+<title>simple wordpress theme</title>
